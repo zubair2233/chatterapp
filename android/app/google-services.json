@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156690546933",
+    "project_id": "chatter-app-4860c",
+    "storage_bucket": "chatter-app-4860c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156690546933:android:2057e3a5a19d52bd6345bc",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156690546933-2rn0bccbmetaac3l5s31algdp877a9ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_messenger",
+            "certificate_hash": "da92f5f4bed708fac26df3989b8b7aeaf366b4a7"
+          }
+        },
+        {
+          "client_id": "156690546933-588g8hkls0s1r7b79f3t73l3amsnjoak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWqn38uwmaTSfoJPs71qIEQSxdy6OE-JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156690546933-588g8hkls0s1r7b79f3t73l3amsnjoak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
